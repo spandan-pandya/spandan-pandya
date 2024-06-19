@@ -1,5 +1,5 @@
 <h1 align="center">Namaste! 🙏🏽 I'm Spandan</h1>
-<align="center">Your very own physics nerd>
+<h4 align="center">Your very own physics nerd</h4>
 
 - 🔭 I enjoy thinking about: Quantum Mechanics, Condensed Matter, and Non Linear Dynamics
 
