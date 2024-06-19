@@ -1,17 +1,13 @@
 <h1 align="center">Namaste!🙏🏽,I'm Spandan</h1>
 <h3 align="center">Your very own physics nerd</h3>
 
-- 🔭 I enjoy thinking about **Quantum Mechanics, Condensed Matter, and Non Linear Dynamics**
+- 🔭 I enjoy thinking about: Quantum Mechanics, Condensed Matter, and Non Linear Dynamics
 
-- 💬 I kinda know about **India, Time Crystals, Chaos**
+- 💬 I kinda know about: India, Time Crystals, Chaos
 
 - 📫 E-mail me at **pandyaspandan@gmail.com**
 
 - ⚡ Fun fact: **We are conscious atoms studying atoms**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages:</h3>
 - Python, Mathematica, LaTeX, Bash, HTML, Markdown
