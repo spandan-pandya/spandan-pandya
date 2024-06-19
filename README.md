@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Namaste!🙏🏽,I'm Spandan</h1>
+<h3 align="center">Your very own physics nerd</h3>
 
-<!--
-**spandan-pandya/spandan-pandya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I enjoy thinking about **Quantum Mechanics, Condensed Matter, and Non Linear Dynamics**
 
-Here are some ideas to get you started:
+- 💬 I kinda know about **India, Time Crystals, Chaos**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 E-mail me at **pandyaspandan@gmail.com**
+
+- ⚡ Fun fact: **We are conscious atoms studying atoms**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages:</h3>
+- Python, Mathematica, LaTeX, Bash, HTML, Markdown
+- English, Hindi, Gujarati, French, Persian, Urdu
+
