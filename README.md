@@ -10,6 +10,5 @@
 - ⚡ Fun fact: **We are conscious atoms studying atoms**
 
 <h3 align="left">Languages:</h3>
-- Python, Mathematica, LaTeX, Bash, HTML, Markdown
-- English, Hindi, Gujarati, French, Persian, Urdu
+- Python, Mathematica, LaTeX, Bash, HTML, Markdown, English, Hindi, Gujarati, French, Persian, Urdu
 
